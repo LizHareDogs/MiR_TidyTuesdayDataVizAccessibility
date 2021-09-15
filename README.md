@@ -1,4 +1,4 @@
-# MiR_TidyTuesdayAltText Project
+# MiR_TidyTuesday Data Visualization Accessibility Project
 
 This is a place to organize plans for the CS&S-funded Data Viz Accessibility Education through a Learning Community on Twitter project.
 
